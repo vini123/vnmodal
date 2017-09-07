@@ -14,7 +14,7 @@
 <div class="vnmodal-wrapper" id="login">
 	<div class="vnmodal-backdrop"></div>
 	<div class="vnmodal-container" style="width:520px;">
-	    <div style="position: relative;width:520px;background-color:#fff;border-radius:8px;padding:40px 50px 25px 40px;">
+	    <div style="position:relative;width:520px;background-color:#fff;border-radius:8px;padding:40px 50px;">
 	        <div class="vnmodal-close">X</div>
 	    </div>
 	</div>
