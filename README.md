@@ -6,6 +6,8 @@
 
 3. 关闭模态窗口后。滚动条功能恢复。
 
+**演示demo:**  [https://api.qiubg.com/demo/vnmodal](https://api.qiubg.com/demo/vnmodal)
+
 ## 使用
 
 1. 创建dom。最基本的dom如下。
